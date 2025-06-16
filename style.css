@@ -1,0 +1,11 @@
+.nav select{
+  /* border: none; */
+  word-spacing: 0;
+  width: 70px;
+  font-size: ;
+}
+
+.nav option{
+  border:none;
+  background-color: black;
+}
