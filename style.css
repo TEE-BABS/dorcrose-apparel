@@ -37,6 +37,11 @@ body{
   font: 1em sans-serif;
   
 }
+.logo img{
+  width: 110px;
+  height: 90px;
+  border-radius: 10px;
+}
 .nav-container{
   margin: 50px;
   width: 75%;
